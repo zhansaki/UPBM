@@ -1,0 +1,38 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0_25da6e5cd6cfc5cf421ea29791ea71d092f9abbb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_05f2bec79439fe592a51646397c291fd5d3748b9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.3.0_5b28de02d54397f9717a5c656fd54fd36df53b91.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.3.0_0996f0ca1de7d34d31e4d3cea8d77cb0da922155.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.3.0_94caa99ef76cd5272463bd16301113eb899ab5c9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_e7ca4b03767f4035d79d20de90e9be8ce4717a3d.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.3.0_5f1ce98d812fc8a9dc43580c88a8fcf70559e13a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.3.0_7ea7d1a8aee59244bc81cff8ff905874fb4d905a.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.3.0_75a8efa3f1bc4a805038b642bd40e4f2bc964c72.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b077c146b5c86efdb68c3686389d1bdbaea50e98.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.3.0_0363a60ecea0f008d67d78b98f9a1a4881066204.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.3.0_33574b1b8d0eb92819622e9c3dd811a4ab13b1f2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.3.0_9f66a5ee7e7c8fb5a70febbb2953e487c3d8bde2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_c4902f1754970c4ef4cacac8f277db2ae6120a73.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.3.0_6c6b21b93fa517ed6ca3f97748aa416a2b7bcc13.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/debug_42862378ad8f97cb2d10bacaf83220a5880da56f.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.3.0_688782e8e8d73e82012f906d1bed76c268f95928.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.3.0_4c7997483fb3d4b3f8b0cbb1a877a20b25397409.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.3.0_9c978727cbf3fea91f4a6bdd44905dbb3912b932.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.3.0_3d5485ad89fdc718b3c6bfeff44a36106fa4437e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.3.0_8dbe399987ae71feef471d830108e9971442fd93.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.3.0_9e970c8e85e994f6609e8772db4d700a13f5e319.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.3.0_a0995960c86582bfbae00f4593444483a3eb5c30.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.3.0_93c689b6b83d06e9380b7956dc5ff6c5bd5c9f85.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.3.0_610568bb57467b7960319752c75b5b5fbeb63cda.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.3.0_774f20cf12e76a7ba92d3059d6a86a08429f4bf3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.3.0_76801631b1fdc9dab33ded83763d8f30c76eb8c4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.3.0_580be7a5d9b909c0928d8b69539695efe9636987.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-22.2.0_367444d6be520bfdf0a263c66b6b0ba3a09f4f32.jar!/" />
+      <root url="jar://$PROJECT_DIR$/UPBus/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.3.0_11b074a8aa767c8bf31c23ebb7b6f8d72fc7d00a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
